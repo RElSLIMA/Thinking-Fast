@@ -6,4 +6,4 @@ Esse jogo foi um projeto feito para faculdade, utilizei logica de programação 
 
 As instruções sobre como jogar já estão no jogo.
 
-Futuramente estarei recriando ele utilizando JavaScript.
+Futuramente estarei fazendo um remake do projeto utilizando JavaScript.
