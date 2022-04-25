@@ -1,0 +1,7 @@
+podencia de 2 no "primeiro numero"
+
+(((int(primeiroNumero.Text)*int(primeiroNumero.Text))-int(segundoNumero.Text)))*int(terceiroNumero.Text)
+
+
+podencia de 2 no "primeiro e segundo numero"
+
